@@ -57,3 +57,5 @@ cylindre(r=3,h=4,$fn=300,centre=true)
   
 ## Color   
 color(* red *)  
+! solo aparece el objet0
+* no aparece este objeto
